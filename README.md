@@ -44,4 +44,9 @@ This project implements a **binary classifier** to detect **pneumonia from chest
    * Softmax output used with adjustable threshold for classification.
    * Grad-CAM overlays generated to visualize regions influencing predictions.
 
+## Results
+
+<img width="1903" height="978" alt="image" src="https://github.com/user-attachments/assets/77f9b1a7-9450-4bad-9575-72a607976b29" />
+<img width="1888" height="931" alt="image" src="https://github.com/user-attachments/assets/3bb0cb33-346d-4561-902c-ebf8ce6817d4" />
+<img width="1867" height="894" alt="image" src="https://github.com/user-attachments/assets/23983848-c8a0-493d-a1d9-1583eecf2834" />
 
