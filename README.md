@@ -12,7 +12,6 @@ This project implements a **binary classifier** to detect **pneumonia from chest
 * **Robust Preprocessing**: CLAHE contrast enhancement, resizing to 224×224, and masking non-thoracic regions to focus the model on lungs.
 * **Data Augmentation**: Rotation and translation applied to 30% of training images for robustness.
 
----
 
 ## Model Performance
 
@@ -46,7 +45,3 @@ This project implements a **binary classifier** to detect **pneumonia from chest
    * Grad-CAM overlays generated to visualize regions influencing predictions.
 
 
-
----
-
-I can also **draft an optional figure section** showing **example X-ray images + Grad-CAM overlays** to make it visually stronger for your GitHub portfolio. Do you want me to do that?
