@@ -53,4 +53,5 @@ This project implements a **binary classifier** to detect **pneumonia from chest
 ## Results
 
 <img width="1903" height="978" alt="image" src="https://github.com/user-attachments/assets/77f9b1a7-9450-4bad-9575-72a607976b29" />
+<img width="1140" height="577" alt="image" src="https://github.com/user-attachments/assets/798b56b1-1e60-4f48-aa3a-ee28e8736cc7" />
 <img width="1294" height="967" alt="image" src="https://github.com/user-attachments/assets/5b8e3bcd-cd2d-422b-b7d2-3c0087e5d9ce" />
